@@ -18,11 +18,15 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-
-
-
+''' Swapping of two numbers
+Developed by: RAMYA R
+Reg.no: 212223230169
+'''
+surya_data=input()
+vijay_data=input()
+temp=surya_data
+surya_data=vijay_data
+vijay_data=temp
+print("Swapped values are:",surya_data,vijay_data)
 ## RESULT:
 Thus the swapping of two values are successfully executed
-
-
-
