@@ -22,11 +22,13 @@ End the program
 Developed by: RAMYA R
 Reg.no: 212223230169
 '''
+```
 surya_data=input()
 vijay_data=input()
 temp=surya_data
 surya_data=vijay_data
 vijay_data=temp
 print("Swapped values are:",surya_data,vijay_data)
+```
 ## RESULT:
 Thus the swapping of two values are successfully executed
