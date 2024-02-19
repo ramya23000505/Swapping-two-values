@@ -18,13 +18,12 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-''' Swapping of two numbers
+Swapping of two numbers
 
 Developed by: RAMYA R
 
 Reg.no: 212223230169
 
-'''
 ```
 surya_data=input()
 vijay_data=input()
