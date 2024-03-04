@@ -32,5 +32,8 @@ surya_data=vijay_data
 vijay_data=temp
 print("Swapped values are:",surya_data,vijay_data)
 ```
+##OUTPUT:
+![Screenshot 2024-03-04 131354](https://github.com/ramya23000505/Swapping-two-values/assets/149370791/5add83c2-1828-44c3-87f1-313d7e004c01)
+
 ## RESULT:
 Thus the swapping of two values are successfully executed
