@@ -18,13 +18,10 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-Swapping of two numbers
-
-Developed by: RAMYA R
-
-Reg.no: 212223230169
-
 ```
+Swapping of two numbers
+Developed by: RAMYA R
+Register Number: 212223230169
 surya_data=input()
 vijay_data=input()
 temp=surya_data
@@ -33,7 +30,7 @@ vijay_data=temp
 print("Swapped values are:",surya_data,vijay_data)
 ```
 ## OUTPUT:
-![Screenshot 2024-04-15 133721](https://github.com/ramya23000505/Swapping-two-values/assets/149370791/309d2c9d-0cad-4575-8481-a0141b19a39e)
-![Screenshot 2024-03-04 131354](https://github.com/ramya23000505/Swapping-two-values/assets/149370791/5add83c2-1828-44c3-87f1-313d7e004c01)
+![alt text](<1 in.png>)
+![alt text](<1 ot.png>)
 ## RESULT:
 Thus the swapping of two values are successfully executed
